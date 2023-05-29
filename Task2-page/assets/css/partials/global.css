@@ -31,12 +31,12 @@
   
   .nav-links li a {
     text-decoration: none;
-    color: white;
+    
     color: #333;
   }
   
   .menu-toggle {
-    display: none;
+    display: flex;
     cursor: pointer;
   }
   
